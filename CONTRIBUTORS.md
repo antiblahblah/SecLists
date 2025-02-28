@@ -1,4 +1,4 @@
-## Thanks
+## Thanks 
 
 - Adam Muntner (@amuntner) and for the **FuzzDB** content, including all authors from the FuzzDB project (https://github.com/fuzzdb-project/fuzzdb) [`./Fuzzing/*.fuzzdb.txt`]
 - Ron Bowes (@iagox86) of **SkullSecurity** for collaborating and including all his lists here (https://wiki.skullsecurity.org/Passwords)
